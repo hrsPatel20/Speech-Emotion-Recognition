@@ -1,4 +1,4 @@
-# Speech Emotion Recognition (SER) Using LSTM
+# Speech Emotion Recognition (SER) Using Machine Learning & LSTM
 
 This repository contains a Speech Emotion Recognition (SER) system built using Long Short-Term Memory (LSTM) neural networks. The project also evaluates other classification models including SVM, KNN, Random Forest, and Decision Tree. The project utilizes four popular datasets: TESS, RAVDESS, CREMA-D, and SAVEE, to classify emotions from audio speech data. Feature extraction is performed using Mel-Frequency Cepstral Coefficients (MFCC), and the analysis is conducted in a Jupyter Notebook.
 

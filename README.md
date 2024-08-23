@@ -56,11 +56,11 @@ The following libraries are used in the project:
 
 ## Model Architectures
 The project evaluates several classification models:
-- **LSTM**: Long Short-Term Memory network for capturing temporal dependencies in speech.
-- **SVM**: Support Vector Machine for classification.
-- **KNN**: K-Nearest Neighbors for classification.
-- **Random Forest**: Ensemble of decision trees for classification.
-- **Decision Tree**: Single decision tree for classification.
+- LSTM: Long Short-Term Memory network for capturing temporal dependencies in speech.
+- SVM : Support Vector Machine for classification.
+- KNN : K-Nearest Neighbors for classification.
+- Random Forest: Ensemble of decision trees for classification.
+- Decision Tree: Single decision tree for classification.
 
 ## Installation
 To set up the project locally, follow these steps:
@@ -113,10 +113,8 @@ The performance of the models is evaluated using metrics like accuracy, precisio
 | Random Forest     | 0.85%    | 0.85%     | 0.85%  | 0.85%    |
 | Decision Tree     | 0.75%    | 0.75%     | 0.75%  | 0.75%    |
 
-Replace `X%` with the actual metrics obtained for each model.
 
 ## Contributing
 Contributions are welcome! If you have ideas to improve this project, feel free to fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
